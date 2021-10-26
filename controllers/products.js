@@ -1,5 +1,5 @@
 const Product = require('../models/products')
-
+const { validationResult } = require('express-validator');
 
 const createProduct = async( req,res ) => {
   
@@ -26,13 +26,15 @@ const createProduct = async( req,res ) => {
 }
 
 const deleteProduct = async ( req, res ) => {
-  await Product.findOneAndRemove(req, (error) =>{
-    try {
-        res.json(`si se pudo pa `)
-    } catch (error) {
-      res.json(`no se pudo pa ${error}`)
-    }
-  });
+  
+  const { isbn } = req.body
+  const errors = validationResult(req);
+  
+  if (!errors.isEmpty()) {
+    return res.status(400).json({ errors: errors.array() });
+  }
+  await Product.deleteOne({ isbn: isbn });
+  res.json(`it was successfully eliminated ${isbn} `)
 }
 
 module.exports = { createProduct, deleteProduct }
