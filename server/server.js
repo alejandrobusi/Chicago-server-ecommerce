@@ -3,9 +3,10 @@ require('../database/database')
 const express = require('express')
 const app = express()
 const users = require('../routes/users')
+const products = require('../routes/products')
 const login = require('../routes/login')
-
 const port = process.env.PORT
+
 
 app.use(express.json())
 app.use((req, res, next) => {
@@ -18,5 +19,6 @@ app.use((req, res, next) => {
 
 app.use('/', users)
 app.use('/', login)
+app.use('/', products)
 
-app.listen(port, () => console.log(`Estamos escuchando el pureto ${port}`))
+app.listen(port, () => console.log(`listening to the port : ${port}`))

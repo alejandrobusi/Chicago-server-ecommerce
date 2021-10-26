@@ -2,7 +2,7 @@ const User = require('../models/users')
 const bcrypt = require('bcrypt')
 
 
-const createUser = (req,res) =>{
+const createUser = async(req,res) =>{
   
   const { email, password } = req.body
 
@@ -14,7 +14,7 @@ const createUser = (req,res) =>{
   const salt = bcrypt.genSaltSync();
   newUser.password = bcrypt.hashSync(password, salt);
 
-  newUser.save()
+  await newUser.save()
   res.json(`User ${newUser} created`) 
 }
 
