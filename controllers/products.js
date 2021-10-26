@@ -4,7 +4,11 @@ const { validationResult } = require('express-validator');
 const createProduct = async( req,res ) => {
   
   try {
-    const { name, description, category, price, author, stock, isbn, fav} = req.body
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+    const { name, description, category, price, author, stock, isbn, fav, imgUrl} = req.body
 
   const newProduct = new Product({
     name,
@@ -15,10 +19,12 @@ const createProduct = async( req,res ) => {
     stock,
     isbn,
     fav,
+    imgUrl,
   })
 
   await newProduct.save()
   res.json(`product ${newProduct.isbn} created`) 
+  console.log(`product ${newProduct.isbn} created`)
 
   } catch (error) {
     res.json(`something has failed. error : ${error}`) 

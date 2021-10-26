@@ -9,6 +9,7 @@ const product = new Schema({
   stock: Number,
   isbn: Number,
   fav: Boolean,
+  imgUrl: String,
 })
 
 module.exports = model('Product', product)
