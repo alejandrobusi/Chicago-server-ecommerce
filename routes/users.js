@@ -1,5 +1,6 @@
 const { Router } = require('express')
-const { createUser, deleteUser } = require('../controllers/users')
+const { createUser, deleteUser, getUsers } = require('../controllers/users')
+const {jwtvalidator} = require ('../middleware/jwtvalidator')
 const { body } = require('express-validator');
 const route = Router()
 
@@ -16,4 +17,9 @@ createUser)
 route.delete('/users', 
 body('email').trim().escape().notEmpty().withMessage("email empty").isEmail().withMessage('invalid email'), 
 deleteUser)
+
+route.get('/users', getUsers)
+
 module.exports = route 
+
+
