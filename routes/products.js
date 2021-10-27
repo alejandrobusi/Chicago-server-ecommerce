@@ -17,7 +17,7 @@ body('imgUrl').trim().notEmpty().withMessage("url empty").isURL().withMessage('i
 createProduct)
 
 route.delete('/products', 
-body('isbn').notEmpty().withMessage("isnb empty"),
+body('isbn').isNumeric().withMessage('it is not number').notEmpty().withMessage("isnb empty"),
 
 deleteProduct )
 
