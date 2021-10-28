@@ -21,11 +21,10 @@ const createProduct = async( req,res ) => {
     fav,
     imgUrl,
   })
-
+  
   await newProduct.save()
-  res.json(`product ${newProduct.isbn} created`) 
-  console.log(`product ${newProduct.isbn} created`)
-
+  res.json(`product "${newProduct.name}" with isbn ${newProduct.isbn} created`) 
+  
   } catch (error) {
     res.json(`something has failed. error : ${error}`) 
   }
