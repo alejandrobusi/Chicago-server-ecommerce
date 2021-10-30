@@ -27,6 +27,13 @@ const createUser = async(req,res) =>{
   await newUser.save()
   res.json(`User ${newUser.email} created`) 
 }
+
+
+const getUsers = async(req,res) =>{
+  const users = await User.find({})
+  res.json(users)
+}
+
 const deleteUser = async ( req, res ) => {
   
   const { email } = req.body
@@ -38,5 +45,5 @@ const deleteUser = async ( req, res ) => {
   await User.deleteOne({ email: email });
   res.json(`it was successfully eliminated ${User} `)
 }
-module.exports = { createUser, deleteUser }
+module.exports = { createUser, deleteUser, getUsers }
 

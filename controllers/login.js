@@ -1,5 +1,8 @@
 const User = require('../models/users')
+require('dotenv').config
+const jwt = require('jsonwebtoken')
 const bcrypt = require('bcrypt')
+
 
 
 const loginUser = async(req,res) =>{
@@ -11,7 +14,19 @@ const loginUser = async(req,res) =>{
   const match = bcrypt.compareSync(password , searchEmail[0].password)
   
   if (match) {
-    res.status(200).json({'msg':'Usuario logueado correctamente'})
+    const payload = {
+      check:true
+
+    }
+  
+    const token = jwt.sign(payload, process.env.SECRET, {
+      expiresIn: '1h'
+    })
+
+
+
+
+    res.status(200).json({'msg':'Usuario logueado correctamente', token: token})
     return
   } else {
     res.status(401).json({'msg':'Usuario o constraseña invalida perro'})
