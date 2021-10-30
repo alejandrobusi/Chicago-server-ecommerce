@@ -8,6 +8,7 @@ const user = new Schema({
   premium: Boolean,
   admin: Boolean,
   loggedIn: Boolean,
+  favs: Array,
 })
 
 module.exports = model('User', user)
