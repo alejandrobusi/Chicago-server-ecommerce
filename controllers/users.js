@@ -8,7 +8,7 @@ const createUser = async(req,res) =>{
     if (!errors.isEmpty()) {
       return res.status(400).json({ errors: errors.array() });
     }
-  const { email, password, name, points, premium, admin, loggedIn} = req.body
+  const { email, password, name, points, premium, admin, loggedIn, favs} = req.body
 
   const newUser = new User({
     email,
@@ -17,7 +17,8 @@ const createUser = async(req,res) =>{
     points,
     premium,
     admin,
-    loggedIn
+    loggedIn,
+    favs
   })
   
   const salt = bcrypt.genSaltSync();
