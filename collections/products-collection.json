@@ -1,0 +1,481 @@
+[{
+  "_id": {
+    "$oid": "617c8412995e592348386544"
+  },
+  "name": "Anne la de los tejados verdes",
+  "description": "Un clásico que vuelve para robarnos el corazón Matthew y Marilla llevan una vida tranquila y rutinaria en el pequeño pueblo de Avonlea. Ya ancianos, deciden adoptar un huérfano para que los ayude con las tareas de la granja. Pero en vez del niño prometido por el orfanato, a casa de los Cuthbert  llega  Ana,  una  niña  valiente  y  apasionada  con  una  imaginación  desbordante  que conquistará a todo el mundo. Hay un montón de Anas distintas dentro de mí. Algunas veces pienso que esa es la razón de que yo sea una persona tan cargante. Si fuera siempre una sola Ana, sería mucho más cómodo, pero también muchísimo menos interesante. La novela que inspiró la serie de NETFLIX,  Anne  with  an  E  ,  El  personaje  femenino más encantador que se ha creado desde la inmortal Alicia de Carroll. Mark Twain.",
+  "category": "novela",
+  "price": 1700,
+  "author": "Montgomery Lucy Maud",
+  "stock": 21,
+  "isbn": 9788418128950,
+  "editorial": "Duomo",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1l3j6xRrYjmrSJNIVNYeS475emqUI1MVo=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c7758b370d70b72b66583"
+  },
+  "name": "Los siete maridos de Evelyn Hugo",
+  "description": "Evelyn Hugo, el ícono de Hollywood que  se  ha  recluido  en  su  edad madura,  decide al  fin  contar  la verdad sobre su vida llena de glamour y de escándalos. Pero cuando elige para ello a Monique Grant, una periodista desconocida, nadie se sorprende más que la misma Monique. Por qué ella ? Por qué ahora ? Monique no está precisamente en su mejor momento. Su marido la abandonó, y su vida profesional no avanza. Aún ignorando por que Evelyn la ha elegido para escribir su biografía. Monique esta decidida  a  aprovechar esa  oportunidad para  dar  impulso  a su  carrera.  Convocada  al lujoso  apartamento  de  Evelyn,  Monique  escucha  fascinada  mientras  la  actriz  le  cuenta  su  historia. Desde su llegada a Los Angeles en los años 50 hasta su decisión de abandonar su carrera en el espectáculo en los 80 - y desde luego, los siete maridos que tuvo en ese tiempo  - Evelyn narra una historia de ambición implacable, amistad inesperada y un gran amor prohibido.",
+  "category": "Novela",
+  "price": 1800,
+  "author": "Jenkins Reid Taylor",
+  "stock": 15,
+  "isbn": 9789874777737,
+  "editorial": "Umbriel",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1LHlHtoOZuTfMBvJHbeRowVTHCyjxa39M=w1920-h965-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c7861b370d70b72b66586"
+  },
+  "name": "Una familia anormal y el cruce de los universos",
+  "description": "Lyna está disfrutando muy tranquila de unos días en Tembleque, junto a su Meli, la abuela Rita y Dani,  sin  saber  que  un  peligro  la  acecha.  Desde  un  universo  paralelo,  llega  al  pueblo  un  extraño personaje que quiere ocupar su lugar y eliminarla para siempre. ¿Podrán descubrir el peligro a tiempo? ¿Lyna será capaz de derrotar a su rival o desaparecerá de este universo? Acompaña a tus personajes favoritos en esta intrigante aventura.",
+  "category": "Novela",
+  "price": 800,
+  "author": "Vallejos Lyna",
+  "stock": 15,
+  "isbn": 9789877363326,
+  "editorial": "Altea",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1t_43KiwUCLWNgtaqOvvbmjoHJOBPoLeo=w682-h947-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c7a25b370d70b72b66589"
+  },
+  "name": "El poder del ahora",
+  "description": "Este libro, considerado una obra maestra, puede crear una experiencia en los lectores y cambiar  su vida.Su autor se convirtió en un maestro universal,un gran espíritu con un mensaje revelador:se puede alcanzar un estado de iluminación aquí y ahora.Es posible vivir libre del sufrimiento, la ansiedad  y  la  neurosis.  Para  lograrlo  tenemos  que  comprender  nuestro  papel  de  creadores  del propio  dolor.  Es  nuestra  mente  la  que  nos  causa  los  problemas  con  su  corriente  de  pensamientos constante sobre el pasado y preocupándose por el futuro.En un formato de preguntas y respuestas, es una invitación a la reflexión, que permitirá ver la vida con nuevos ojos y empezar a disfrutar del verdadero poder del ahora.",
+  "category": "Novela",
+  "price": 1600,
+  "author": "Tolle Eckhart",
+  "stock": 3,
+  "isbn": 9789877250992,
+  "editorial": "Debolsillo",
+  "fav": false,
+  "imgUrl": "http://www.img",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c7b6fb370d70b72b6658c"
+  },
+  "name": "Will Grayson, Will Grayson",
+  "description": "Este libro, considerado una obra maestra, puede crear una experiencia en los lectores y cambiar  su vida.Su autor se convirtió en un maestro universal,un gran espíritu con un mensaje revelador:se puede alcanzar un estado de iluminación aquí y ahora.Es posible vivir libre del sufrimiento, la ansiedad  y  la  neurosis.  Para  lograrlo  tenemos  que  comprender  nuestro  papel  de  creadores  del propio  dolor.  Es  nuestra  mente  la  que  nos  causa  los  problemas  con  su  corriente  de  pensamientos constante sobre el pasado y preocupándose por el futuro.En un formato de preguntas y respuestas, es una invitación a la reflexión, que permitirá ver la vida con nuevos ojos y empezar a disfrutar del verdadero poder del ahora.",
+  "category": "Novela",
+  "price": 1600,
+  "author": "Green Jhon",
+  "stock": 3,
+  "isbn": 9789871997091,
+  "editorial": "Nube de tinta",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1DqhpnxJ3o0WEe9ceOXXjDq4PBtTkzH2G=w1920-h965-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c7cceb370d70b72b66592"
+  },
+  "name": "Primer tiempo",
+  "description": "Este libro es el resultado de más de un año de reflexiones sobre mi presidencia. En sus páginas cuento la historia tal y como la viví. Es la crónica de nuestros logros y de las duras batallas que tuvimos que dar contra el populismo. Es el relato de nuestros aciertos pero también de nuestros errores y , sobre todo, de lo que aprendimos juntos en este primer viaje hacia una Argentina del respeto, más libre, más moderna y democrática.Primer tiempo es una invitación a renovar el compromiso que tenemos millones de argentinos con el Cambio, con el progreso y la integración a un mundo que nos ofrece oportunidades y desafíos que tenemos la obligación de aprovechar. Es mi agradecimiento a quienes me honraron con la oportunidad de llevar adelante la tarea más fascinante de mi vida. Pero más que nada, es una manera de continuar el diálogo con cada uno de los argentinos que no se resignan a vivir en una sociedad sin futuro para sus hijos. terminó el primer tiempo pero el partido continúa. Y ganarlo depende de todos.",
+  "category": "ciencias politicas",
+  "price": 1859,
+  "author": "Mauricio Macri",
+  "stock": 30,
+  "isbn": 9789504973379,
+  "editorial": "Planeta",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1yMaVPy8EKhucbFIRC3D2MkWrOhrEa98z=w886-h947-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c7dafb370d70b72b66596"
+  },
+  "name": "Harry Potter y la priedra filosofal (bolsillo)",
+  "description": "Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y del insoportable primo Dudley. Se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida  para  siempre.  En  ella  le  comunican  que  ha  sido  aceptado  como  alumno  en  el  colegio  interno Hogwarts de magia y hechicería. A partir de ese momento,  la  suerte  de  Harry  da  un  vuelco espectacular. En esa escuela tan especial aprenderá encantamientos, trucos fabulosos y tácticas de defensa contra las malas artes. Se convertirá en el campeón escolar de quidditch, especie de fútbol aéreo que se juega montado sobre escobas, y hará un puñado de buenos amigos... aunque también algunos temibles enemigos. Pero, sobre todo, conocerá los secretos que le permitirán cumplir con su destino. Pues, aunque no lo parezca a primera vista, Harry no es un chico común y corriente. íEs un verdadero mago",
+  "category": "ficción",
+  "price": 1800,
+  "author": "Rowling J. K.",
+  "stock": 8,
+  "isbn": 9789878000107,
+  "editorial": "salamandra",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1FaFNp4qU55uyOOmpHI2oO8FMd8X2ikOI=w886-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c8096995e592348386532"
+  },
+  "name": "Los compas perdidos en el espacio",
+  "description": "El planeta Cubido sufre una invasión alienígena y los Compasson la única esperanza... para toda la galaxia. Les espera un viaje épico con destino a planetas llenos de peligros desconocidos. Qué podría salir mal? En su nueva aventura, Mike,Trolli y Timba llegarán más lejoSde lo que nadie se ha atrevido jamás. Miles de lucecitas se aproximan a velocidad vertiginosa a Ciudad Cubo, y no parece que vengan con buenas intenciones..",
+  "category": "infantiles",
+  "price": 1930,
+  "author": "Timba vk, El trollino, Mikecrack",
+  "stock": 5,
+  "isbn": 9789508701800,
+  "editorial": "Martomez Roca",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1TRdyfspeMNScTSc6UCHpslnYsfd6Xtfi=w886-h947-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c8161995e592348386535"
+  },
+  "name": "Después",
+  "description": "Jamie Conklin, el único hijo de una madre soltera, solo quiere tener una  infancia  normal.  Sin embargo, nació con una habilidad sobrenatural que su madre le insta a mantener en secreto y que le  permite  ver  aquello  que  nadie  puede  y  enterarse  de  lo  que  el  resto  del  mundo  ignora.  Cuando una inspectora del Departamento de Policía de Nueva York le obliga a evitar el último atentado de un asesino que amenaza con seguir atacando incluso desde la tumba, Jamie no tardará en descubrir que el precio que debe pagar por su poder tal vez es demasiado alto. Después es Stephen King en estado puro, una novela inquietante y emotiva sobre la inocencia perdida y las pruebas que hay que superar para diferenciar el bien del mal. Deudora del gran clásico del autor It (Eso), Después es un relato poderoso, terrorífico e inolvidable sobre la necesidad de plantarle cara a la maldad en todas sus formas. La crítica ha dicho... «Mitad historia de detectives, mitad thriller... Es emocionante y auténtica «Si tienes ganas de mezclar escalofríos y emociones fuertespero no dispones de tiempo para leer un clásico de King, con este libro lo conseguirás antes de irte a la cama. Aunque seguramente no podrás dormir.» Kirkus «Una lectura entretenida y ligera que cuenta con la magistral habilidad que ha convertido a King en una leyenda literaria.» AARP Magazine «Una prueba más que añadir a la lista de proezas narrativas de este autor.» Bookbub «Un nuevo clásico para los fans de Stephen King.» Associated Press «La escritura de King en Después es limpia, directa y evocadora, como siempre lo ha sido. El argumento, está basado en un crimen.",
+  "category": "terror y suspenso",
+  "price": 2200,
+  "author": "King Stephen",
+  "stock": 15,
+  "isbn": 9789506445614,
+  "editorial": "Plaza &amp; Janes editores",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1ibO6ZQQVWqllNZAT63MQgcCAQ1I-n4z3=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c8204995e59234838653b"
+  },
+  "name": "El principito (bolsillo)",
+  "description": "El mundo de fantasía y la mirada tierna y curiosa de El Principito conquistó a grandes y chicos de distintas épocas. Catapulta editores presenta una nueva edición con las ilustraciones originales de Antoine de Saint Exupéry, traducida por Cristina  Piña. Incluye un exclusivo señalador con pie para que el mismo Principito acompañe el viaje por las páginas de su libro.",
+  "category": "clásicos",
+  "price": 400,
+  "author": "De Saint Exupery Antoine",
+  "stock": 12,
+  "isbn": 9789878304755,
+  "editorial": "Del fondo editorial",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1EB8JOiYpG0ED_vZWwoS5y65wvWcWxsc8=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c82a1995e59234838653e"
+  },
+  "name": "El gran Gatsby",
+  "description": "La concepción básica de &#x27;Gatsby&#x27; le debe bastante a una novela: El corazón de las tinieblas, de Joseph Conrad, y a un poema: La tierra baldía, de T. S. Eliot. Sin embargo, las ventas de su obra no estuvieron a la altura de lo esperado, y a partir de entonces comenzó la decadencia del autor. A su manera, Fitzgerald fue un &#x27;Gatsby&#x27;: un joven que se hizo casi de la nada y terminó pronto y mal, sólo que su descenso de la cima al infierno fue un poco menos drástico.",
+  "category": "clásicos",
+  "price": 1600,
+  "author": "Fitzgerald Francis Scott",
+  "stock": 5,
+  "isbn": 9789500398435,
+  "editorial": "Losada",
+  "fav": false,
+  "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_601377-MLA32833883359_112019-O.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c83af995e592348386541"
+  },
+  "name": "Anne la de los tejados verdes",
+  "description": "Un clásico que vuelve para robarnos el corazón Matthew y Marilla llevan una vida tranquila y rutinaria en el pequeño pueblo de Avonlea. Ya ancianos, deciden adoptar un huérfano para que los ayude con las tareas de la granja. Pero en vez del niño prometido por el orfanato, a casa de los Cuthbert  llega  Ana,  una  niña  valiente  y  apasionada  con  una  imaginación  desbordante  que conquistará a todo el mundo. Hay un montón de Anas distintas dentro de mí. Algunas veces pienso que esa es la razón de que yo sea una persona tan cargante. Si fuera siempre una sola Ana, sería mucho más cómodo, pero también muchísimo menos interesante. La novela que inspiró la serie de NETFLIX,  Anne  with  an  E  ,  El  personaje  femenino más encantador que se ha creado desde la inmortal Alicia de Carroll. Mark Twain.",
+  "category": "novela",
+  "price": 1700,
+  "author": "Montgomery Lucy Maud",
+  "stock": 21,
+  "isbn": 9788418128950,
+  "editorial": "Duomo",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1l3j6xRrYjmrSJNIVNYeS475emqUI1MVo=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c8567995e592348386547"
+  },
+  "name": "Rebelion en la granja",
+  "description": "Esta sátira de la Revolución rusa y el triunfo del estalinismo, escrita en 1945, se ha convertido por derecho propio en un hito de la cultura contemporánea y en uno de los libros más mordaces de todos los tiempos.",
+  "category": "ficción",
+  "price": 900,
+  "author": "Orwell George",
+  "stock": 2,
+  "isbn": 9789875669062,
+  "editorial": "Debolsillo",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1ftIf-JWsUhexDcET0yT9vxR1BmjYLrDU=w886-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c85c9995e59234838654a"
+  },
+  "name": "Lecciones de juventud",
+  "description": "Saint Ambrose es el exclusivo colegio donde han estudiado los varones adinerados del lugar desde hace más de un siglo. Y este curso admitirá por primera vez alumnado femenino en un entorno que parece idílico, pero que en realidad oculta problemas familiares, inseguridades y soledad. Una faceta oscura de la vida en el internado sale a la luz cuando, tras una fiesta, una de sus  estudiantes termina inconsciente en el hospital. Quienes saben lo que pasó han decidido guardar silencio, pero a  medida  que  la  investigación  avanza  y  la  policía  intenta  desenmascarar  al  culpable,  los involucrados  se  enfrentan  a  una  encrucijada  y  deben  elegir entre la salida más fácil o hacer lo correcto, entre mentir o decir la verdad. Nadie en Saint Ambrose escapará a las consecuencias",
+  "category": "ficción",
+  "price": 1500,
+  "author": "Steel Danielle",
+  "stock": 12,
+  "isbn": 9789506445737,
+  "editorial": "Plaza &amp; janes editores",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1umutZRpbz8pA0Wgp46VAsRZJbERPsbix=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c8645995e59234838654d"
+  },
+  "name": "Los compas y la maldicion de mikecrack",
+  "description": "Mike y Timba han organizado una gran fiesta de cumplea#os para Trolli en La Pluma Negra y ya está todo preparado: globos y confeti por todas partes, una gran tarta con velas y un montón de regalos. Pero algo no sale como estaba previsto&#x27; Una terrible maldición amenaza a Los Compas! Mike, Timba y Trolli tendrán que emprender una búsqueda contrarreloj si quieren salvarse. Lograrán acabar con la maldición a tiempo?.",
+  "category": "infantiles",
+  "price": 1930,
+  "author": "Timba Vk, El Trollino, Mikecrack",
+  "stock": 12,
+  "isbn": 9789508701732,
+  "editorial": "Martinez Roca",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1RtXoD3dhBgAMQnFPuRkDCi9CFu_pl5IY=w886-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c86cc995e592348386550"
+  },
+  "name": "Una familia normal, El misterio de la hechicera",
+  "description": "En  el  pueblo  de  Tembleque  hay  un  festival  con  disfraces,juegos,  puestos  de  comida  y  mucha diversión.En esta nueva aventura de la familia anormmal,la abuela Rita es convertida en un bebé! Lyna,Melina y el Señor Pato tendrán que cuidar a esta bebita tan particular y encontrar la manera de volverla a la normalidad.Creen que lo conseguirán? Qué misterios encontrarán en el camino? Acompañaa team anormal en esta nueva y alocada aventura.",
+  "category": "infantiles",
+  "price": 800,
+  "author": "Vallejos Lyna",
+  "stock": 7,
+  "isbn": 9789877362633,
+  "editorial": "Altea",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1fgme_nUQ-Kqti-lKbt3Pv1V5MLDLUr1i=w886-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c87ef995e592348386553"
+  },
+  "name": "El arte de la guerra",
+  "description": "Los textos de Sun Tzu sobre El arte de la guerra constituyen el más arcaico de los tratados conocidos sobre ese tema, pero nunca han sido superados en amplitud y profundidad de concepción. Pueden muy bien ser considerados la esencia concentrada de la sabiduría en lo referente a estrategia y conducción de la guerra.&#x27; (B. H. Liddell Hart) &#x27;La serie de ensayos de Sun Tzu no merece nuestra atención sólo como una curiosidad venerable. El arte de la guerra es mucho más que eso. Es una obra meditada e inteligente, caracterizada por una intuición y una imaginación que le  han  asegurado  durante  siglos  una posición privilegiada dentro de la literatura militar china.&#x27; (Samuel B. Griffith) &#x27;El arte de la guerra es el libro más antiguo y más completo sobre las estrategias de  la  guerra  de  cuantos  han  circulado  en  China.  (Tao  Han  Zhang)  &#x27;Hay  un  dicho  en  el  libro  de  Sun Tzu, el gran científico militar de la China antigua: Conoce a tu enemigo y conócete a tí mismo, y en cien batallas nunca serás vencido. Este dicho se refiere tanto al aprendizaje como a la aplicación, y tanto al conocimiento de las leyes de la realidad como a las decisiones respecto de nuestras propias acciones de acuerdo con esas leyes para superar a los enemigos que nos enfrentan. No deberíamos tomar ese dicho frívolamente.&#x27; (Mao Tse Tung)",
+  "category": "clásicos",
+  "price": 500,
+  "author": "Sun Tzu",
+  "stock": 9,
+  "isbn": 9789875748026,
+  "editorial": "Prometeo libros",
+  "fav": true,
+  "imgUrl": "https://contentv2.tap-commerce.com/cover/large/9789875748026_1.jpg?id_com=1113",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c88a7995e592348386556"
+  },
+  "name": "Soltar para ser feliz",
+  "description": "Soltar es una palabra que está de moda. Con frecuencia escuchamos frases como: “Hay que soltar el enojo”, “tienes que soltar el control” o “es mejor soltar el pasado”. Todos quisiéramos soltar aquello que nos impide ser felices... Pero ¿cómo? Es más fácil decirlo que hacerlo. Mario Massaccesi (periodista  y  coach  ontológico)  y  Patricia  Daleiro  (psicóloga  y  Master  Coach)  comparten  las dinámicas que implementan en sus talleres grupales, las historias reales, las preguntas poderosas y hasta  sus  experiencias personales  en la  aventura  de  soltar.  Ya  tienes el  libro  en tus  manos.  Ahora, ¿te animas a Soltar para ser feliz?",
+  "category": "desarrollo personal",
+  "price": 1900,
+  "author": "Daleiro Patricia, Massaccesi Mario",
+  "stock": 32,
+  "isbn": 9789500211116,
+  "editorial": "El Ateneo",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/14MEyuRYaDvfWSzwqPk5Q_Dnkh91weWBq=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c8974995e592348386559"
+  },
+  "name": "Una luz fuerte y brillante",
+  "description": "Corre el año 2014 y Siria continua en una guerra sangrienta. Alvaro Sanchez, fotógrafo argentino residente en Barcelona, decide viajar para cubrir la contienda. Sus contactos lo conducen a la casa de Al Kabani, familia musulmana que le proporcionará los medios para introducirse en Duna, una de las ciudades tomadas por las fuerzas rebeldes al régimen. Pero Alvaro no imagina que ese viaje le deparará la aventura más riesgosa de su carrera y la llegada de un amor que hará tambalear todos sus  paradigmas. Salma, una joven mujer arabe lo enloquecerá. Por ella estará dispuesto a ir hasta las últimas consecuencias, juntos experimentarán pasiones y peligros que los llevaran al límite de sus fuerzas y pondran en juego sus vidas en medio de una voragine de violencia y prohibiciones. La historia de la joven pareja esta atravesada por otra más antigua, que transcurre durante el esplendor sirio de los años sesenta. En esa época de vaivenes políticos y duras restricciones impuestas a las mujeres irá forjándose la pequeña Nunu,cuya transformación personal marcará a fuego  a  Salma  y  Alvaro.  Viviana  Rivero  vuelve  a  sorprender  y  fascinar  con  una  novela  que  lo  tiene todo: amor, sensualidad, odio fraternal, tabues ancestrales y un tenaz afán de superación. Una luz fuerte y brillante refleja el poder del amor frente al horror de la guerra y la energía imparable de las mujeres unidas contra la injusticia.",
+  "category": "novedades",
+  "price": 1600,
+  "author": "Rivero Viviana",
+  "stock": 18,
+  "isbn": 9789500440752,
+  "editorial": "Emece",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1NAs-s53dBGtL7MKPKkEzcUXjeUakilAC=w886-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c8a06995e59234838655c"
+  },
+  "name": "Florencia Bonelli La tia cósima",
+  "description": "¿Puede el amor regalar una segunda oportunidad? Cósima es una mujer en la plenitud de la vida. Psicóloga de profesión y especializada en el tratamiento del autismo infantil, posee una fundación de enorme prestigio, donde se respira un ambiente cuidado y buen humor. Allí trabaja con perros especialmente adiestrados para ayudar a los niños con alguna condición del espectro autista. Es feliz  con  su  trabajo,  con  sus  amigos  y  sus  sobrinos,  a  quienes  dedica  los  pocos  ratos  libres  de  que dispone. En su adolescencia, sin embargo, padeció la crueldad de algunos compañeros de escuela, experiencia que la marcó profundamente, al tiempo que le sirvió para convertirse en la mujer comprometida que es hoy. Si bien esa etapa de sufrimiento quedó atrás, un día irrumpe de nuevo para ofrecerle algo que quizá deseaba: un amor inesperado, una pasión que la desborda, un abismo de sorpresa e incertidumbre. ¿Podrá ese amor reparar el daño que no se olvida? ¿Podrá deshacer la verguenza , la frustración y el enojo? Con su nueva novela, Florencia Bonelli logra otra vez el misterio de la devoción lectora con una historia que perdura más allá de la última página.",
+  "category": "novedades",
+  "price": 2200,
+  "author": "Bonelli Florencia",
+  "stock": 25,
+  "isbn": 9789877391480,
+  "editorial": "Suma de letras",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1sRyqouadspPDnApqe0q39EfnfOnfhjln=w886-h947-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c9285995e59234838655f"
+  },
+  "name": "Florencia Bonelli Aquí hay dragones",
+  "description": "La  Diana  es  uno  de  los personajes más populares de la saga Caballo de fuego, publicada por Florencia Bonelli en 2012. Las lectoras le piden desde entonces que escriba su historia, y esta es la novela que cuenta cómo La Diana se convierte en ayudante de Eliah Al Saud, por qué las salva a ella y a su hermana Leila de las garras de los nacionalistas serbios y en qué se convierte después de un duro entrenamiento militar. También conocemos de primera mano qué fue lo que le ocurrió durante la guerra, y por qué está tan decidida a buscar venganza. Hasta que se interpone el amor, esa  sorpresa  que  siempre  espera  al  final  del  camino.  Esta  novela  se  completa  con  un  segundo volumen, que será publicado en el primer semestre de 2019. Florencia Bonelli, con más de 3 millones  de  ejemplares  vendidos solamente en la Argentina, vuelve a entregarnos su libro más ambicioso, más deseado y esperado por miles y miles de lectoras que aguardan sus novedades con expectativa y felicidad.",
+  "category": "novedades",
+  "price": 1800,
+  "author": "Bonelli Florencia",
+  "stock": 35,
+  "isbn": 9789877391107,
+  "editorial": "Suma de letras",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1xXRt4rs-W_KLLCZRzltvmv0pz6aL4gNo=w886-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c93c1995e592348386562"
+  },
+  "name": "Zafiros en la piel",
+  "description": "La mujer a la que tanto había amado y de la que nunca más supo nada hasta ese mediodía, estaba aquí, frente a él. Y acababa de decirle que juntos habían tenido un hijo.  El  amor, ese  sentimiento poderoso como ninguno, recorre las páginas de los doce relatos que integran Zafiros en la piel. Desinteresado,  erótico,  altruista,  fraternal,  obsesivo,  apasionado,  sacrificado,  abrasador:  sus variantes  son  múltiples  como  los  personajes que encarnan estas deliciosas historias.Mujeres resueltas a atravesar los océanos y enfrentar peligros para encontrar la felicidad; madres devotas de sus hijos hasta límites insospechados; esposas audaces, que desean reavivar el fuego de sus matrimonios; viudas que descubren que, entre los restos del pasado, hay todavía una promesa de futuro; señoras &#x27;de su casa&#x27; capaces de rebelarse a los mandatos sociales; muchachas convencidas de sus ideales y dispuestas a luchar hasta el final para defenderlos. Todas ellas tienen en común la fe en el amor que, como una moneda de oro, pasa de generación en generación para asegurarles que siempre habrá un nuevo comienzo.Este nuevo libro de Viviana Rivero es el primero en participar  de  libro  vivo,  una  experiencia  inédita de escritura online que Emecé realizó con Google, como una forma de compartir con los lectores el proceso fascinante de la creación literaria. El relato objeto de esa experiencia se incluye aquí mediante un código QR.",
+  "category": "novedades",
+  "price": 1700,
+  "author": "Rivero Viviana",
+  "stock": 8,
+  "isbn": 9789500439664,
+  "editorial": "Emece",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1S8mJ0JFw1s8U4uU6eFXTLfZfU6a7ud3D=w886-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c9493995e592348386565"
+  },
+  "name": "24. One piece",
+  "description": "ONE PIECE, manga de ODA EIICHIRO, con diferentes capítulos de acción y aventuras en distintos escenarios y personajes icónicos de la saga.",
+  "category": "mangas anime",
+  "price": 350,
+  "author": "Oda Eiichiro",
+  "stock": 6,
+  "isbn": 9788418963186,
+  "editorial": "Ivrea",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1VU51QEUiQbGqyJKe-Gh5Q89wUYj0y03U=w886-h947-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c94c2995e592348386568"
+  },
+  "name": "60. One piece",
+  "description": "ONE PIECE, manga de ODA EIICHIRO, con diferentes capítulos de acción y aventuras en distintos escenarios y personajes icónicos de la saga.",
+  "category": "mangas anime",
+  "price": 350,
+  "author": "Oda Eiichiro",
+  "stock": 6,
+  "isbn": 9788418963187,
+  "editorial": "Ivrea",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1XrIIsAsdSk9OhbvgoC8byMNXs89qD1DA=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c9504995e59234838656b"
+  },
+  "name": "61. One piece",
+  "description": "ONE PIECE, manga de ODA EIICHIRO, con diferentes capítulos de acción y aventuras en distintos escenarios y personajes icónicos de la saga.",
+  "category": "mangas anime",
+  "price": 350,
+  "author": "Oda Eiichiro",
+  "stock": 6,
+  "isbn": 9788418963189,
+  "editorial": "Ivrea",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1imsUR86DoqiyzMnBqnOy-uu_6MTAfrLJ=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c95b7995e59234838656e"
+  },
+  "name": "Attack on titan vol.21",
+  "description": "manga  de  ODA  EIICHIRO,  basado  en  una  saga  de  diferentes  volúmenes  de  acción  y  lucha. Versionados al castellano por la editorial OVNI PRESS dándonos la posibilidad  de  disfrutar  de  este manga referente de su gènero.",
+  "category": "mangas anime",
+  "price": 350,
+  "author": "Isayama Hajime",
+  "stock": 6,
+  "isbn": 9789877247343,
+  "editorial": "Ovni press",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1MtGWwZk0TUdlVLmY8TpBhlwqr4ZGivK0=w886-h947-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c95fe995e592348386571"
+  },
+  "name": "Attack on titan vol.08",
+  "description": "manga  de  ODA  EIICHIRO,  basado  en  una  saga  de  diferentes  volúmenes  de  acción  y  lucha. Versionados al castellano por la editorial OVNI PRESS dándonos la posibilidad  de  disfrutar  de  este manga referente de su gènero.",
+  "category": "mangas anime",
+  "price": 350,
+  "author": "Isayama Hajime",
+  "stock": 6,
+  "isbn": 9789877247344,
+  "editorial": "Ovni press",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1QmxTp0lTFwD_s8I76cK0at4CYIpaYqGn=w448-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c9646995e592348386574"
+  },
+  "name": "59. One piece",
+  "description": "ONE PIECE, manga de ODA EIICHIRO, con diferentes capítulos de acción y aventuras en distintos escenarios y personajes icónicos de la saga.",
+  "category": "mangas anime",
+  "price": 350,
+  "author": "Oda eiiciro",
+  "stock": 6,
+  "isbn": 9788418963180,
+  "editorial": "Ivrea",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1QmxTp0lTFwD_s8I76cK0at4CYIpaYqGn=w448-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c96cb995e592348386577"
+  },
+  "name": "Los cuatro acuerdos",
+  "description": "El conocimiento tolteca surge de la misma unidad esencial de la verdad de la que parten todas las tradiciones esotéricas sagradas del mundo.Aunque no es una religión,respeta a todos los maestros espirituales que han enseñado en la tierra,y si bien abraza el espíritu, resulta más preciso describirlo como  una manera de vivir que se distingue por su fácil acceso a la felicidad y el amor.El doctor Miguel  Ruiz  nos  propone  en  este  libro  un  sencillo  procedimiento  para  eliminar  todas  aquellas creencias  heredadas  que  nos  limitan  y  substituirlas  por  otras  que  responden  a  nuestra  realidad interior y nos conducen a la libertad.",
+  "category": "top",
+  "price": 1200,
+  "author": "Ruiz Miguel",
+  "stock": 12,
+  "isbn": 9789507880223,
+  "editorial": "Urano",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1E4ioU0ZdIm8oAeQyxMXNmmORy5rKs_wu=w886-h947-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c973a995e59234838657a"
+  },
+  "name": "Palabras cruzadas",
+  "description": "Hace poco más de diez años, Gabriel Rolon publicaba su segundo libro. Después del éxito rotundo y casi  sin  ningun  precedente  de  Historias  de divan, Palabras cruzadas llegaba a las librerías para reconfirmar el lugar central de su autor en la industria editorial de los últimos veinte años en la Argentina. Pero también -y  en  esto  marca  un  verdadero  hito-, terminaba de consolidar un vínculo inédito hasta ese momento enre el Psicoanálisis y un público lector cada vez más numeroso. Y no era para menos. En ese camino que el libro proponía -propone-, en ese tránsito desde el dolor hacia la verdad, los casos narrados dejaban honda su huella en quienes se atrevían al desafío. La agustia, los  miedos,  la  sexualidad,  el  amor  y  el  desamor,  las  adicciones  y  la  soledad  se dan  cita  en un  viaje que paciente y psicoanalista emprenden juntos. Una travesía las más de las veces dolorosa sí, pero que una vez cumplida se vive como transformadora, poderosa, irreductiblemente humana. En esta edición definitiva y revisada, que incluye un caso nuevo, Rolon se lee a si mismo. Se anima a interpelar ese reflejo que le devuelve un espejo anclado hace más de una década, en una sociedad otra en la que los debates por las políticas de genero, la legalidad del consumo de marihuana y los usos disruptivos de la lengua -de un idioma-, entre otras cosas, no tenían ni la visibilidad ni el peso específico que tienen hoy. Y es ahí, tan franco y veraz hacia los lectores en donde el autor hace que Palabras cruzadas se vuelva, una vez más, un libro vital, orgánico, e indispensable.",
+  "category": "top",
+  "price": 1300,
+  "author": "Rolon Gabriel",
+  "stock": 22,
+  "isbn": 9789504974895,
+  "editorial": "Planeta",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1wgPVnO8bJ2gqDwn7mUsajDcLPyyUXQ1o=w610-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c97ec995e59234838657e"
+  },
+  "name": "Muchas vidas, muchos maestros",
+  "description": "El doctor Brian Weiss, jefe de psiquiatría del hospital Mount Sinai de Miami, relata en éste, su primer libro, una asombrosa experiencia que cambió por completo su propia vida y su visión de la psicoterapia. Una de sus pacientes, Catherine, recordó bajo hipnosis varias de sus vidas pasadas y pudo encontrar en ellas el origen de muchos de los traumas que sufría. Catherine se curó, pero ocurrió  algo  todavía  más  importante:  logró  ponerse  en  contacto  con  los Maestros,  espíritus superiores que habitan los estados entre dos vidas. Ellos le comunicaron importantes mensajes de sabiduría y de conocimiento. Este relato, profundamente conmovedor, punto de encuentro entre ciencia y metafísica, constituyó un extraordinario best seller y sigue siendo de obligada lectura en un mundo convulsionado, en especial para los que buscan un sentido espiritual.",
+  "category": "top",
+  "price": 900,
+  "author": "Weiss Brian",
+  "stock": 21,
+  "isbn": 9789877801750,
+  "editorial": "B de bolsillo",
+  "fav": true,
+  "imgUrl": "https://lh3.google.com/u/0/d/1aOf-3dE2hGhYD543pPTaO5eoueDrZNIu=w448-h964-iv1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c984f995e592348386581"
+  },
+  "name": "El duelo",
+  "description": "El Duelo es un territorio oscuro, misterioso, casi inaccesible. Una conmoción que nos sorprende, nos  toma  desprevenidos  y  cambia  nuestro  entorno  en  un  instante.  No  importa  lo  preparados  que creamos  estar para enfrentar una pérdida, esa preparación jamás será suficiente. Cuando ocurre, todo se desmorona y por un tiempo nada tiene sentido. Algo se quiebra en nosotros, el mundo se derrumba y nos muestra su aspecto más cruel. Con estas palabras describe Gabriel Rolón cuál será el camino a transitar en su nuevo ensayo:la pérdida. Sí, la muerte, sin rodeos (la propia, y la de los que amamos), pero también la falta imprevista (o no tanto) de todo aquello que nos sostiene anclados a la vida. La pérdida de un trabajo, una  pareja, un  hogar,  el  reconocimiento  de un otro y hasta la juventud nos empujan al duelo. Y es ahí, en ese soplo en el que el dolor se hace carne y la pena se devora las palabras, que Gabriel Rolón comparte su reflexión aguda, certera, siempre lúcida. Por eso, su nuevo libro se nutre de mitología y de música, de cine y literatura, de casos clínicos y teoría analítica. Porque es una mirada que indaga en el padecimiento y a la vez en los mecanismos que el Psicoanálisis como disciplina, y que el arte como forma de entender el mundo, nos tienden a modo de puentes para superar lo ausente. Y es que el Duelo &#x27;y en esto Rolón es tan claro como firme&#x27; es una &#x27;guerra&#x27; íntima. Una prueba, tal vez la más dura, que nos pone cara a cara con lo que perdimos y con lo que podemos crear a partir de lo perdido. Una batalla salvaje que nos transforma de una vez y para siempre. Y que en su impiadosa deriva nos lleva hacia un renacer que nos hace más humanos.",
+  "category": "top",
+  "price": 1800,
+  "author": "Rolon Gabriel",
+  "stock": 6,
+  "isbn": 9789504970934,
+  "editorial": "Planeta",
+  "fav": false,
+  "imgUrl": "https://lh3.google.com/u/0/d/1T8dBBXbiJ3MmqAspoJmHSQ72gitFNmfA=w448-h964-iv1",
+  "__v": 0
+}]

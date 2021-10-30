@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "617c9a65dc44e1b169dc18c7"
+  },
+  "email": "admin@gmail.com",
+  "password": "$2b$10$eNfOxwz5GF.bV9xyUHQsaOlaQgllySzFTROfjnZHTiGh/HAPRXKOC",
+  "name": "Administrador",
+  "points": 50,
+  "premium": true,
+  "admin": true,
+  "loggedIn": false,
+  "favs": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c9b9fdc44e1b169dc18ca"
+  },
+  "email": "client@gmail.com",
+  "password": "$2b$10$lLFZ1it5QdsiGDI3nLPaEupQ3fgimMfFQrEu3doilDd1FrV6EtCZS",
+  "name": "Marie Curie",
+  "points": 50,
+  "premium": false,
+  "admin": false,
+  "loggedIn": false,
+  "favs": [],
+  "__v": 0
+}]

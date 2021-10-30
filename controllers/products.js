@@ -8,7 +8,7 @@ const createProduct = async( req,res ) => {
     if (!errors.isEmpty()) {
       return res.status(400).json({ errors: errors.array() });
     }
-    const { name, description, category, price, author, stock, isbn, fav, imgUrl} = req.body
+    const { name, description, category, price, author, stock, isbn, editorial, fav, imgUrl} = req.body
 
   const newProduct = new Product({
     name,
@@ -18,14 +18,14 @@ const createProduct = async( req,res ) => {
     author,
     stock,
     isbn,
+    editorial,
     fav,
     imgUrl,
   })
-
+  
   await newProduct.save()
-  res.json(`product ${newProduct.isbn} created`) 
-  console.log(`product ${newProduct.isbn} created`)
-
+  res.json(`product "${newProduct.name}" with isbn ${newProduct.isbn} created`) 
+  
   } catch (error) {
     res.json(`something has failed. error : ${error}`) 
   }

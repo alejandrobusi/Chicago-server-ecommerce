@@ -8,6 +8,7 @@ const product = new Schema({
   author: String,
   stock: Number,
   isbn: Number,
+  editorial: String,
   fav: Boolean,
   imgUrl: String,
 })
