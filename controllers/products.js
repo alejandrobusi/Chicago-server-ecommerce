@@ -5,10 +5,12 @@ const createProduct = async( req,res ) => {
   
   try {
     const errors = validationResult(req);
+    
     if (!errors.isEmpty()) {
       return res.status(400).json({ errors: errors.array() });
     }
-    const { name, description, category, price, author, stock, isbn, editorial, fav, imgUrl} = req.body
+
+  const { name, description, category, price, author, stock, isbn, editorial, fav, imgUrl} = req.body
 
   const newProduct = new Product({
     name,
@@ -31,6 +33,13 @@ const createProduct = async( req,res ) => {
   }
 }
 
+const getProducts = async(req,res) =>{
+
+  const products = await Product.find({})
+  
+  res.json(products)
+}
+
 const deleteProduct = async ( req, res ) => {
   
   const { isbn } = req.body
@@ -43,4 +52,17 @@ const deleteProduct = async ( req, res ) => {
   res.json(`it was successfully eliminated ${isbn} `)
 }
 
-module.exports = { createProduct, deleteProduct }
+const editProduct = async ( req, res ) => {
+  
+  const errors = validationResult(req);
+  
+  if (!errors.isEmpty()) {
+    return res.status(400).json({ errors: errors.array() });
+  }
+  const productEdit = await Product.findByIdAndUpdate(req.params.prodId , req.body, {new: true})
+  
+  res.status(200).json(productEdit) 
+  }
+
+
+module.exports = { createProduct, deleteProduct, editProduct, getProducts }

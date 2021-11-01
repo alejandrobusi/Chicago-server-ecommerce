@@ -4,10 +4,13 @@ const { validationResult } = require('express-validator');
 
 
 const createUser = async(req,res) =>{
+  
   const errors = validationResult(req);
-    if (!errors.isEmpty()) {
+  
+  if (!errors.isEmpty()) {
       return res.status(400).json({ errors: errors.array() });
     }
+    
   const { email, password, name, points, premium, admin, loggedIn, favs} = req.body
 
   const newUser = new User({
@@ -30,7 +33,9 @@ const createUser = async(req,res) =>{
 
 
 const getUsers = async(req,res) =>{
+ 
   const users = await User.find({})
+ 
   res.json(users)
 }
 
@@ -45,5 +50,13 @@ const deleteUser = async ( req, res ) => {
   await User.deleteOne({ email: email });
   res.json(`it was successfully eliminated ${User} `)
 }
-module.exports = { createUser, deleteUser, getUsers }
+
+const editUser = async ( req, res ) => {
+
+const userEdit = await User.findByIdAndUpdate(req.params.userId , req.body, {new: true})
+
+res.status(200).json(userEdit) 
+}
+
+module.exports = { createUser, deleteUser, getUsers, editUser }
 
