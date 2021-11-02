@@ -2,6 +2,7 @@ const jwt = require('jsonwebtoken')
 require('dotenv').config()
 
 const jwtvalidator = async(req,res,next) =>{
+    
     const token = req.headers['access-token']
 
     if(token){
@@ -19,6 +20,4 @@ const jwtvalidator = async(req,res,next) =>{
 
 }
 
-module.exports = {
-    jwtvalidator
-}
+module.exports = { jwtvalidator }

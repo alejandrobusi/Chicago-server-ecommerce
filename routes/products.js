@@ -1,5 +1,6 @@
 const { Router } = require('express')
 const { body } = require('express-validator');
+const { jwtvalidator } = require('../middleware/jwtvalidator')
 const { createProduct, deleteProduct, editProduct, getProducts } = require('../controllers/products');
 const { validationIsbn, validationMinMaxIsbn } = require('../helpers/validations');
 const route = Router()
