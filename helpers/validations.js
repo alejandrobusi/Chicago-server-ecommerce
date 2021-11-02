@@ -21,7 +21,9 @@ const validationIsbn = async (isbn) => {
 
 const validationMinMaxIsbn = (isbn) => {
   
-  if ( isbn.length < 10 || isbn.length  > 13){
+  const isbnString = isbn.toString()
+
+  if (isbnString.length < 10 || isbnString.length > 13){
     throw new Error(`sale`)
   }
 }
