@@ -5,7 +5,7 @@ const { createProduct, deleteProduct, editProduct, getProducts } = require('../c
 const { validationIsbn, validationMinMaxIsbn } = require('../helpers/validations');
 const route = Router()
 
-route.post('/products',
+route.post('/products', jwtvalidator,
 body('name').trim().escape().notEmpty().withMessage("name empty").isLength({max : 60}).withMessage('maximum character is 60'),
 body('description').trim().escape().notEmpty().exists().withMessage("description empty").isLength({max : 2100}).withMessage('maximum character is 2100'),
 body('category').trim().escape().notEmpty().withMessage("category empty"),
@@ -22,12 +22,12 @@ createProduct)
 
 route.get('/products', getProducts)
 
-route.delete('/products', 
+route.delete('/products', jwtvalidator,
 body('isbn').isNumeric().withMessage('it is not number').notEmpty().withMessage("isnb empty"),
 
 deleteProduct )
 
-route.patch('/products/:prodId',
+route.patch('/products/:prodId', jwtvalidator,
 body('name').trim().escape().notEmpty().withMessage("name empty").isLength({max : 60}).withMessage('maximum character is 60'),
 body('description').trim().escape().notEmpty().exists().withMessage("description empty").isLength({max : 2100}).withMessage('maximum character is 2100'),
 body('category').trim().escape().notEmpty().withMessage("category empty"),
