@@ -11,6 +11,7 @@ const product = new Schema({
   editorial: String,
   fav: Boolean,
   imgUrl: String,
+  quantity: Number,
 })
 
 module.exports = model('Product', product)

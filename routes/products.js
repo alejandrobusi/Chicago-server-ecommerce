@@ -17,6 +17,7 @@ body('isbn').custom(validationIsbn),
 body('editorial').trim().escape().notEmpty().withMessage("editorial empty"),
 body('fav').isBoolean().withMessage('it is not boolear').notEmpty().withMessage("fav empty"), 
 body('imgUrl').trim().notEmpty().withMessage("url empty").isURL().withMessage('it is not a url'),
+body('quantity').isNumeric().withMessage('it is not number'),
 
 createProduct)
 
