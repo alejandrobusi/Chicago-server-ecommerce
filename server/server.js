@@ -5,6 +5,7 @@ const app = express()
 const users = require('../routes/users')
 const products = require('../routes/products')
 const login = require('../routes/login')
+const purchases = require('../routes/purchases')
 const port = process.env.PORT
 
 
@@ -20,5 +21,6 @@ app.use((req, res, next) => {
 app.use('/', users)
 app.use('/', login)
 app.use('/', products)
+app.use('/', purchases)
 
 app.listen(port, () => console.log(`listening to the port : ${port}`))
