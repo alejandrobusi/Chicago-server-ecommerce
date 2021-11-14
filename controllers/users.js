@@ -58,5 +58,7 @@ const userEdit = await User.findByIdAndUpdate(req.params.userId , req.body, {new
 res.status(200).json(userEdit) 
 }
 
+
+
 module.exports = { createUser, deleteUser, getUsers, editUser }
 

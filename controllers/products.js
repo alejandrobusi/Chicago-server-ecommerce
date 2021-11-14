@@ -53,7 +53,7 @@ const deleteProduct = async ( req, res ) => {
 }
 
 const editProduct = async ( req, res ) => {
-  
+
   const errors = validationResult(req);
   
   if (!errors.isEmpty()) {

@@ -1,6 +1,6 @@
 const { Router } = require('express')
 const route = Router()
-const { createUser, deleteUser, getUsers, editUser } = require('../controllers/users')
+const { createUser, deleteUser, getUsers, editUser, addFav } = require('../controllers/users')
 const {jwtvalidator} = require ('../middleware/jwtvalidator')
 const { body } = require('express-validator');
 const { validationEmail } = require('../helpers/validations')
@@ -32,6 +32,7 @@ body('premium').isBoolean().withMessage('it is not boolear').notEmpty().withMess
 body('admin').isBoolean().withMessage('it is not boolear').notEmpty().withMessage("admin empty"),
 body('loggedIn').isBoolean().withMessage('it is not boolear').notEmpty().withMessage("loggedIn empty"),
 editUser)
+
 
 module.exports = route 
 
