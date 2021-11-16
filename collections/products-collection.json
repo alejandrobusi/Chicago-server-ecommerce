@@ -59,7 +59,7 @@
   "isbn": 9789877250992,
   "editorial": "Debolsillo",
   "fav": false,
-  "imgUrl": "https://lh3.google.com/u/0/d/13xp2HybtlUz-atZc0Bdgf7pZQKsF6sN_=w1920-h965-iv1",
+  "imgUrl": "https://i.ibb.co/nkcfKhZ/El-poder-del-ahora-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -75,7 +75,7 @@
   "isbn": 9789871997091,
   "editorial": "Nube de tinta",
   "fav": false,
-  "imgUrl": "https://lh3.google.com/u/0/d/1DqhpnxJ3o0WEe9ceOXXjDq4PBtTkzH2G=w1920-h965-iv1",
+  "imgUrl": "https://i.ibb.co/zHBVdSW/Will-grayson-will-grayson-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -91,7 +91,7 @@
   "isbn": 9789504973379,
   "editorial": "Planeta",
   "fav": true,
-  "imgUrl": "https://lh3.google.com/u/0/d/1yMaVPy8EKhucbFIRC3D2MkWrOhrEa98z=w886-h947-iv1",
+  "imgUrl": "https://i.ibb.co/y8XVBhp/Primer-tiempo-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -107,7 +107,7 @@
   "isbn": 9789878000107,
   "editorial": "salamandra",
   "fav": false,
-  "imgUrl": "https://lh3.google.com/u/0/d/1FaFNp4qU55uyOOmpHI2oO8FMd8X2ikOI=w886-h964-iv1",
+  "imgUrl": "https://i.ibb.co/HFDMY6r/Harry-Potter-y-la-piedra-filosofal-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -123,7 +123,7 @@
   "isbn": 9789508701800,
   "editorial": "Martomez Roca",
   "fav": false,
-  "imgUrl": "https://lh3.google.com/u/0/d/1TRdyfspeMNScTSc6UCHpslnYsfd6Xtfi=w886-h947-iv1",
+  "imgUrl": "https://i.ibb.co/DkF8cdf/Los-compas-perdidos-en-el-espacio-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -139,7 +139,7 @@
   "isbn": 9789506445614,
   "editorial": "Plaza &amp; Janes editores",
   "fav": false,
-  "imgUrl": "https://lh3.google.com/u/0/d/1ibO6ZQQVWqllNZAT63MQgcCAQ1I-n4z3=w610-h964-iv1",
+  "imgUrl": "https://i.ibb.co/xJkCj3y/Despues-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -155,7 +155,7 @@
   "isbn": 9789878304755,
   "editorial": "Del fondo editorial",
   "fav": false,
-  "imgUrl": "https://lh3.google.com/u/0/d/1EB8JOiYpG0ED_vZWwoS5y65wvWcWxsc8=w610-h964-iv1",
+  "imgUrl": "https://i.ibb.co/jGG0v7Y/El-principito-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -163,7 +163,7 @@
     "$oid": "617c82a1995e59234838653e"
   },
   "name": "El gran Gatsby",
-  "description": "La concepción básica de &#x27;Gatsby&#x27; le debe bastante a una novela: El corazón de las tinieblas, de Joseph Conrad, y a un poema: La tierra baldía, de T. S. Eliot. Sin embargo, las ventas de su obra no estuvieron a la altura de lo esperado, y a partir de entonces comenzó la decadencia del autor. A su manera, Fitzgerald fue un &#x27;Gatsby&#x27;: un joven que se hizo casi de la nada y terminó pronto y mal, sólo que su descenso de la cima al infierno fue un poco menos drástico.",
+  "description": "La concepción básica de Gatsby le debe bastante a una novela: El corazón de las tinieblas, de Joseph Conrad, y a un poema: La tierra baldía, de T. S. Eliot. Sin embargo, las ventas de su obra no estuvieron a la altura de lo esperado, y a partir de entonces comenzó la decadencia del autor. A su manera, Fitzgerald fue un Gatsby: un joven que se hizo casi de la nada y terminó pronto y mal, sólo que su descenso de la cima al infierno fue un poco menos drástico.",
   "category": "Clásicos",
   "price": 1600,
   "author": "Fitzgerald Francis Scott",
@@ -171,23 +171,7 @@
   "isbn": 9789500398435,
   "editorial": "Losada",
   "fav": true,
-  "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_601377-MLA32833883359_112019-O.jpg",
-  "quantity": 0,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "617c83af995e592348386541"
-  },
-  "name": "Anne la de los tejados verdes",
-  "description": "Un clásico que vuelve para robarnos el corazón Matthew y Marilla llevan una vida tranquila y rutinaria en el pequeño pueblo de Avonlea. Ya ancianos, deciden adoptar un huérfano para que los ayude con las tareas de la granja. Pero en vez del niño prometido por el orfanato, a casa de los Cuthbert  llega  Ana,  una  niña  valiente  y  apasionada  con  una  imaginación  desbordante  que conquistará a todo el mundo. Hay un montón de Anas distintas dentro de mí. Algunas veces pienso que esa es la razón de que yo sea una persona tan cargante. Si fuera siempre una sola Ana, sería mucho más cómodo, pero también muchísimo menos interesante. La novela que inspiró la serie de NETFLIX,  Anne  with  an  E  ,  El  personaje  femenino más encantador que se ha creado desde la inmortal Alicia de Carroll. Mark Twain.",
-  "category": "Novela",
-  "price": 1700,
-  "author": "Montgomery Lucy Maud",
-  "stock": 21,
-  "isbn": 9788418128950,
-  "editorial": "Duomo",
-  "fav": false,
-  "imgUrl": "https://lh3.google.com/u/0/d/1l3j6xRrYjmrSJNIVNYeS475emqUI1MVo=w610-h964-iv1",
+  "imgUrl": "https://i.ibb.co/1bH2D3j/El-Gran-Gatsby-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -203,7 +187,7 @@
   "isbn": 9789875669062,
   "editorial": "Debolsillo",
   "fav": true,
-  "imgUrl": "https://lh3.google.com/u/0/d/1ftIf-JWsUhexDcET0yT9vxR1BmjYLrDU=w886-h964-iv1",
+  "imgUrl": "https://i.ibb.co/CQTj1Nx/La-revelion-de-la-granja-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -219,7 +203,7 @@
   "isbn": 9789506445737,
   "editorial": "Plaza &amp; janes editores",
   "fav": true,
-  "imgUrl": "https://lh3.google.com/u/0/d/1umutZRpbz8pA0Wgp46VAsRZJbERPsbix=w610-h964-iv1",
+  "imgUrl": "https://i.ibb.co/dgKP8gb/Lecciones-de-juventud-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -235,7 +219,7 @@
   "isbn": 9789508701732,
   "editorial": "Martinez Roca",
   "fav": true,
-  "imgUrl": "https://lh3.google.com/u/0/d/1RtXoD3dhBgAMQnFPuRkDCi9CFu_pl5IY=w886-h964-iv1",
+  "imgUrl": "https://i.ibb.co/Rh5DQG5/Los-compas-y-la-maldicion-de-Mikecrack-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -251,7 +235,7 @@
   "isbn": 9789877362633,
   "editorial": "Altea",
   "fav": true,
-  "imgUrl": "https://lh3.google.com/u/0/d/1fgme_nUQ-Kqti-lKbt3Pv1V5MLDLUr1i=w886-h964-iv1",
+  "imgUrl": "https://i.ibb.co/Hz1KKbv/Una-familia-anormal-y-el-misterio-de-la-hechicera-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -267,7 +251,7 @@
   "isbn": 9789875748026,
   "editorial": "Prometeo libros",
   "fav": true,
-  "imgUrl": "https://contentv2.tap-commerce.com/cover/large/9789875748026_1.jpg?id_com=1113",
+  "imgUrl": "https://i.ibb.co/QJZ5W9h/El-arte-de-la-guerra-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -283,7 +267,7 @@
   "isbn": 9789500211116,
   "editorial": "El Ateneo",
   "fav": false,
-  "imgUrl": "https://lh3.google.com/u/0/d/14MEyuRYaDvfWSzwqPk5Q_Dnkh91weWBq=w610-h964-iv1",
+  "imgUrl": "https://i.ibb.co/GP88XLV/Soltar-para-ser-feliz-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -299,7 +283,7 @@
   "isbn": 9789500440752,
   "editorial": "Emece",
   "fav": true,
-  "imgUrl": "https://lh3.google.com/u/0/d/1NAs-s53dBGtL7MKPKkEzcUXjeUakilAC=w886-h964-iv1",
+  "imgUrl": "https://i.ibb.co/12pYWYQ/Una-luz-fuerte-y-brillante-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
@@ -315,7 +299,7 @@
   "isbn": 9789877391480,
   "editorial": "Suma de letras",
   "fav": true,
-  "imgUrl": "https://lh3.google.com/u/0/d/1sRyqouadspPDnApqe0q39EfnfOnfhjln=w886-h947-iv1",
+  "imgUrl": "https://i.ibb.co/qMsXJbm/la-tia-cosima-550.jpg",
   "quantity": 0,
   "__v": 0
 },{
