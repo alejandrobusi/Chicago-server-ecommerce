@@ -23,13 +23,18 @@ const loginUser = async(req,res) =>{
       expiresIn: '1h'
     })
 
+    const frontUser = {
+      name : searchEmail[0].name,
+      email: searchEmail[0].email,
+      admin : searchEmail[0].admin
+    }
 
-
-
-    res.status(200).json({'msg':'Usuario logueado correctamente', token: token})
+    res.status(200).json({'msg':'Usuario logueado correctamente', frontUser, token: token})
     return
   } else {
+
     res.status(401).json({'msg':'Usuario o constraseña invalida perro'})
+
   }
 }
 
